@@ -1,0 +1,24 @@
+{
+  "overrides": [
+    {
+      "files": ["*.ts", "*.*.ts", "*.js", "*.*.js"],
+      "options": {
+        "printWidth": 120,
+        "tabWidth": 2,
+        "useTabs": false,
+        "singleQuote": false,
+        "bracketSpacing": true
+      }
+    },
+    {
+      "files": "*.sol",
+      "options": {
+        "printWidth": 80,
+        "tabWidth": 4,
+        "useTabs": false,
+        "singleQuote": false,
+        "bracketSpacing": true
+      }
+    }
+  ]
+}
