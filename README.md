@@ -1,5 +1,7 @@
 # Asymetrix Protocol
 
+Asymetrix is the decentralized, non-custodial protocol for asymmetric yields distribution generated from staking.
+
 To run the deployment scripts make sure to update some values before:
 
 - Go to the `hardhat.config.ts` file and update the `defenderRelayer` address
